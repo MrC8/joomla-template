@@ -37,6 +37,7 @@ $doc->addScript($this->baseurl."/templates/".$this->template."/js/bootstrap.min.
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="HandheldFriendly" content="true" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <jdoc:include type="head" />
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,700,600' rel='stylesheet' type='text/css'>
 </head>
