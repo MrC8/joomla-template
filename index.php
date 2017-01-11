@@ -55,7 +55,7 @@ $doc->addScript($this->baseurl."/templates/".$this->template."/js/bootstrap.min.
             
                 <div class="moduletabletelephone col-sm-4 col-xs-12">
                     <div class="customtelephone">
-                        <p><a id="number" data-rel="external" data-number="02 40 40 26 26" href="tel:+33240402626">Contactez-nous <span>par téléphone</span></a></p>
+                        <p><a id="number" data-rel="external" data-number="02 40 40 26 26" href="tel:+33240402626" rel="nofollow">Contactez-nous <span>par téléphone</span></a></p>
                     </div>
                 </div>
             </div>
